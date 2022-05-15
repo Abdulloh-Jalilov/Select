@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 95%;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+ul {
+    margin-bottom: 0;
+}
+
+body {
+    background: #070A1B;
+}
+
+.nav {
+    height: 100px;
+    max-width: 100%;
+}
+
+header section {
+    background: url(../img/glava.png) center/cover;
+    border-radius: 400px 400px 0px 0px;
+    height: 800px;
+    max-width: 100%;
+}
+
+.nav-ul a {
+    margin-right: 43px;
+    color: white;
+}
+
+.bug img {
+    width: 300px;
+    height: 210px;
+}
+
+.arrow i {
+    font-size: 25px;
+}
+
+.main-p {
+    color: #FFFFFF;
+    width: 255px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.footer-intro{
+    background: url(../img/fo.png) center/cover;
+    height: 900px;
+    max-width: 100%;
+    border-radius: 450px 450px 0px 0px;
+}
